@@ -81,3 +81,10 @@ body {
   cursor: pointer;
   transition: ease-out 2s;
 }
+@media (max-width: 576px) {
+  #quote-box {
+    width: 250px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
