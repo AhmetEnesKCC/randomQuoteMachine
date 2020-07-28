@@ -3,7 +3,7 @@ import RandomQuote from "./components/randomQuote.jsx";
 import "./App.css";
 export default function App() {
   return (
-    <div>
+    <div id="container">
       <RandomQuote />
     </div>
   );
